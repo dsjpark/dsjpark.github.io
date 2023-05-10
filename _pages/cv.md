@@ -66,10 +66,10 @@ Mentorship
   * Current: Masters student, Georgia State University
 
 
-
+{::comment}
 [//]: #<ul>
 	[//]: #{% for post in site.publications %}
     [//]: #{% include archive-single-cv.html %}
   [//]: #{% endfor %}
 [//]: #</ul>
-
+{:/comment}
