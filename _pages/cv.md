@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* A.B. Molecular and Cellular Biology magna cum laude, Harvard College, 2015
+* A.B. Molecular and Cellular Biology _magna cum laude_, Harvard College, 2015
 * Ph.D. Genetics and Epigenetics, Perelman School of Medicine at the University of Pennsylvania, 2022
   * Thesis: Identification and Characterization of Novel Regulators of Genome Folding
 * M.D Perelman School of Medicine at the University of Pennsylvania, 2022 (expected)
@@ -60,14 +60,16 @@ Mentorship
 =====
 * Nia Abdurezek, 2021
   * Diversity Action Plan for PENN Genomics undergraduate student
-	* Current: Undergraduate student, Tufts University
+  * Current: Undergraduate student, Tufts University
 * Karima Muhammad-Poe, 2020
   * APSA Virtual Summer Research Program student
   * Current: Masters student, Georgia State University
 
 
 
-#<ul>{% for post in site.publications %}
+#<ul>
+	#{% for post in site.publications %}
     #{% include archive-single-cv.html %}
-  #{% endfor %}</ul>
+  #{% endfor %}
+#</ul>
 
