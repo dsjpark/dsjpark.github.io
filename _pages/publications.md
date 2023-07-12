@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-1. **Park DS**, Nguyen SC, Isenhart R, Shah PP, Kim W, Barnett RJ, Chandra A, Luppino JM, Harke J, Wai M, Walsh PJ, Abdill RA, Yang R, Lan Y, Yoon S, Yunker R, Kanemaki MT, Vahedi G, Phillips-Cremins JE, Jain R, Joyce EF. High-throughput Oligopaint screen identifies druggable 3D genome regulators. *Nature* 2023, in press. Preprint on Biorxiv: [https://doi.org/10.1101/2022.04.08.487672](https://doi.org/10.1101/2022.04.08.487672)
+1. **Park DS**, Nguyen SC, Isenhart R, Shah PP, Kim W, Barnett RJ, Chandra A, Luppino JM, Harke J, Wai M, Walsh PJ, Abdill RA, Yang R, Lan Y, Yoon S, Yunker R, Kanemaki MT, Vahedi G, Phillips-Cremins JE, Jain R, Joyce EF. High-throughput Oligopaint screen identifies druggable 3D genome regulators. *Nature* 2023. [https://doi.org/10.1101/2022.04.08.487672] (https://doi.org/10.1038/s41586-023-06340-w)
 
 2.	Luppino JM, Field A, Nguyen SC, **Park DS**, Shah PP, Abdill RJ, Lan Y, Yunker R, Jain R, Adelman K, Joyce EF. Co-depletion of NIPBL and WAPL balance cohesin activity to correct gene misexpression. *PLoS Genetics* 2022. [https://doi.org/10.1371/journal.pgen.1010528](https://doi.org/10.1371/journal.pgen.1010528)  
 
