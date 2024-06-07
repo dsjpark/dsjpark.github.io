@@ -14,9 +14,14 @@ Education
 * A.B. Molecular and Cellular Biology _magna cum laude_, Harvard College, 2015
 * Ph.D. Genetics and Epigenetics, Perelman School of Medicine at the University of Pennsylvania, 2022
   * Thesis: Identification and Characterization of Novel Regulators of Genome Folding
-* M.D. Perelman School of Medicine at the University of Pennsylvania, 2024 (expected)
+* M.D. Perelman School of Medicine at the University of Pennsylvania, 2024
 
-Research experience
+Clinical Training
+======
+* Resident in Pediatrics and Medical Genetics, 2024-present
+  * Children's Hospital of Philadelphia
+
+Research Experience
 ======
 * Ph.D. Candidate, 2018-2022
   * Perelman School of Medicine at the University of Pennsylvania
